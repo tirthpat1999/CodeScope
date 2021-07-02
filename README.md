@@ -24,4 +24,4 @@ Commands:
 
 FINAL THOUGHTS:
 
-	Commands can be entered in any order and multiple times if you want (Ex. codegrunt [directory]  --search hi  --search thing --exclude somefile.txt) is a valid entry.
+	Commands can be entered in any order and multiple times if you want (Ex. codescope [directory]  --search hi  --search thing --exclude somefile.txt) is a valid entry.
